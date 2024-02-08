@@ -1,3 +1,6 @@
+import java.util.Map;
+import java.util.HasMap;
+
 class Auteur{
     private String nom;
 
