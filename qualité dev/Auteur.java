@@ -26,15 +26,15 @@ class Auteur{
     }
 
     public Integer getQualiteTragedie(){
-        return this.perform.get(key:"TRAGEDIE").getPerf();
+        return this.qualiTrag;
     }
 
     public Integer getQualiteComedie(){
-        return this.perform.get(key:"COMEDIE").getPerf();
+        return this.qualiCome;
     }
 
     public Integer getQualiteDrame(){
-        return this.perform.get(key:"DRAME").getCita();
+        return this.qualiDrame;
     }
 
     public String getCitationTragedie(){
