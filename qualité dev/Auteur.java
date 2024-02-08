@@ -41,11 +41,14 @@ class Auteur{
         return this.citaTrag;
     }
 
+    public String pointFort(){
+
+    }
+
+    @Override
+
     public String toString(){
         return "L'honorable";
     }
 
-    public String pointFort(){
-
-    }
 }
