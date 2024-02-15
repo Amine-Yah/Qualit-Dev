@@ -45,6 +45,14 @@ class Auteur{
 
     }
 
+    public String qualiteStyle(){
+
+    }
+
+    public String citationStyle(){
+        
+    }
+
     @Override
 
     public String toString(){
