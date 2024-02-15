@@ -48,7 +48,6 @@ class Auteur{
     @Override
 
     public String toString(){
-        return "L'honorable";
+        return "L'honorable" +this.nom ;
     }
-
 }
